@@ -1,0 +1,13 @@
+{
+  "name": "afj-slides",
+  "version": "1.0.0",
+  "repository": "git@github.com:animo/afj-slides.git",
+  "license": "Apache-2.0",
+  "scripts": {
+    "export:pdf": "marp --pdf",
+    "export:html": "marp --html"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^2.5.0"
+  }
+}
