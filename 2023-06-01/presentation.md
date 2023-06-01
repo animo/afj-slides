@@ -37,6 +37,7 @@ WG Call - June 1st 2023
 
 - Update on JWT VCs, extended crypto support and OpenID4VC
 - AFJ 0.4.0 Release
+- Making it easier for people to get started with AFJ
 - Rethinking the Storage Layer
 
 ---
