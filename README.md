@@ -1,7 +1,7 @@
 # Aries Framework JavaScript WG Call Slides
 
 - 2023-06-01
-  - [HTML (Preview)](https://refined-github-html-preview.kidonng.workers.dev/animo/afj-slides/raw/main/2023-06-01.html)
+  - [HTML (Preview)](https://refined-github-html-preview.kidonng.workers.dev/animo/afj-slides/raw/main/2023-06-01/presentation.html)
   - [PDF](./2023-06-01/presentation.pdf)
   - [HTML](./2023-06-01/presentation.html)
   - [Markdown](./2023-06-01/presentation.md)
